@@ -1,2 +1,2 @@
-# Rawia
-calculator python code
+# Calculator
+calculator using python code
